@@ -1,0 +1,23 @@
+h1 {
+    color: maroon;
+    border: 2px solid black;
+    width: 12%;
+    background-color: lightcyan;
+    border-radius: 50px;
+    box-shadow: 2px 2px grey;
+}
+.post {
+    background-color: whitesmoke;
+    width: 12%;
+}
+
+.user {
+    font-style: italic;
+}
+
+button{
+    cursor: pointer;
+}
+body {
+    background-color: lightgrey;
+}
